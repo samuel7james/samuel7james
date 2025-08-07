@@ -12,19 +12,29 @@
 - 📊 Creating dashboards that look cool AND secure
 - 🐛 Hunting bugs (the digital kind)
 
-### 🛠️ My Toolbox:
-```javascript
-samuel = {
-    "languages": ["Python", "JavaScript", "C++", "HTML/CSS"],
-    "loves": ["Ethical Hacking", "Network Security", "Open Source"],
-    "tools": ["Kali Linux", "Burp Suite", "Docker", "Wireshark"],
-    "current_mood": "Always curious 🤔",
-    "fun_fact": "I can break your password... ethically! 😉"
-}
+### 🛠️ My Arsenal:
+
+```
+ ┌─────────────────────────────────────────────────────────┐
+ │  🔥 LANGUAGES                                            │
+ │  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+ │  ⚡ JavaScript  🐍 Python  💎 C++  🌐 HTML/CSS      │
+ │                                                        │
+ │  🛡️ SECURITY ARSENAL                                   │
+ │  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+ │  🐧 Kali Linux    🔍 Burp Suite   🌊 Wireshark       │
+ │  🎯 Metasploit    📊 Nessus       🗺️ Nmap            │
+ │                                                        │
+ │  ⚙️ TOOLS & TECH                                       │
+ │  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+ │  🐳 Docker        📦 VirtualBox   🔗 Node.js         │
+ │                                                        │
+ │  💭 Current Status: Always learning something new! 🚀  │
+ └─────────────────────────────────────────────────────────┘
 ```
 
 ### 🏆 Bragging Rights:
-- 🥇 Smart India Hackathon 2020 Grand Finalist
+- 🥇 Smart India Hackathon 2020 Grand Finalist (yeah, I'm kinda proud)
 - 🎓 CEH certified (I promise I only hack ethically!)
 
 ### 📫 Let's be friends:
