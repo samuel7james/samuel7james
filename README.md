@@ -34,9 +34,6 @@
 - 🥇 Smart India Hackathon 2020 Grand Finalist (yeah, I'm kinda proud)
 - 🎓 CEH certified (I promise I only hack ethically!)
 
-### 📫 Let's be friends:
-- 📧 samuel7james@gmail.com
-- 📍 Delhi, India
 
 ---
 
