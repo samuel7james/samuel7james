@@ -31,7 +31,7 @@
 </div>
 
 ### 🏆 Bragging Rights:
-- 🥇 Smart India Hackathon 2020 Grand Finalist (yeah, I'm kinda proud)
+- 🥇 Smart India Hackathon 2020 Grand Finalist 
 - 🎓 CEH certified (I promise I only hack ethically!)
 
 
